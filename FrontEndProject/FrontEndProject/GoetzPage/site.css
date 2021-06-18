@@ -1,0 +1,36 @@
+body {
+    background-color: #090707;
+    color: #d5cdca;
+    font-family: century-gothic, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h1, h2, h3, h4 {
+    color: #f1ebeb;
+}
+
+td, th {
+    color: #f3f3f3;
+}
+
+a {
+    color: #61a6ec;
+}
+
+.navbar-dark {
+    background-color: #1b1e21;
+    border: none;
+    color: gray;
+}
+
+.navbar-nav > li > a:hover {
+    color: white !important;
+}
+
+.navbar-nav > .active > a {
+    color: white !important;
+    background-color: #292c2f !important;
+}
