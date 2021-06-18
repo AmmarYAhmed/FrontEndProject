@@ -19,3 +19,18 @@ td, th {
 a {
     color: #61a6ec;
 }
+
+.navbar-dark {
+    background-color: #1b1e21;
+    border: none;
+    color: gray;
+}
+
+.navbar-nav > li > a:hover {
+    color: white !important;
+}
+
+.navbar-nav > .active > a {
+    color: white !important;
+    background-color: #292c2f !important;
+}
