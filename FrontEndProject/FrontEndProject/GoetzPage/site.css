@@ -34,3 +34,23 @@ a {
     color: white !important;
     background-color: #292c2f !important;
 }
+
+.recenttab {
+    background-color: #1b1e21;
+}
+
+.imagebox {
+    background-color: #1b1e21;
+}
+
+#imagelist {
+    background-color: #292D30 !important;
+    padding-bottom:200px;
+    font-size: 25px;
+}
+
+#prbox {
+    background-color: #292D30 !important;
+    padding-bottom: 150px;
+    font-size: 25px;
+}
